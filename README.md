@@ -11,7 +11,7 @@
 
 windows prerequist::
 
-- Install XAMPP to enable apache and mysql(https://laravel.com/docs/routing).
+- Install XAMPP to enable apache and mysql
 - Install Visual Studio Code
 - Install git
 - Install composer
